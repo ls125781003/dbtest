@@ -1,0 +1,36 @@
+{
+  "plugins": [
+    {
+      "name": "bilibili",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/bilibili.js"
+    },
+    {
+      "name": "咪咕",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/migu.js"
+    },
+    {
+      "name": "网易云",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/netease.js"
+    },
+    {
+      "name": "全民K歌",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/qmkg.js"
+    },
+    {
+      "name": "酷我",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/kuwo.js"
+    },
+    {
+      "name": "千千音乐",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/qianqian.js"
+    },
+    {
+      "name": "5sing",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/5sing.js"
+    },
+    {
+      "name": "酷狗",
+      "url": "http://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dbtest/master/kugou.js"
+    }
+  ]
+}
